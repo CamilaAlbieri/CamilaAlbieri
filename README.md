@@ -7,4 +7,4 @@ Bem vindo a minha área de trabalho
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CamilaAlbieri&theme=material-palenight&include_all_commits=true&count_private=true)
 
-![Snake Animation](https://github.com/CamilaAlbieri/CamilaAlbieri/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/CamilaAlbieri/CamilaAlbieri/blob/output/github-contribution-grid-snake.svg)
