@@ -5,7 +5,7 @@
 <p align="left">
   • Estudante de Engenharia da Computação <br>
   • Entusiasta de tecnologia, código limpo e desafios de lógica <br>
-  • Explorando: C++, Desenvolvimento Web e brincando com o LeetCode <br>
+  • Explorando: C++, Desenvolvimento Web, Python e brincando com o LeetCode <br>
 </p>
 
 ### Tecnologias e Ferramentas
